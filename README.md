@@ -1,1 +1,1 @@
-# digital_competences
+# Digital competence
