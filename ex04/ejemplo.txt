@@ -1,0 +1,10 @@
+XXXXXXXXXXXXX
+aaaaa	xxxxx
+xxxxx	bbbbb
+ccccc	xxxxx
+xxxxx	ddddd
+eeeee	xxxxx
+aaaaa	bbbbb
+....	fffff
+axaxa	bxbxb
+XXXXXXXXXXXXX

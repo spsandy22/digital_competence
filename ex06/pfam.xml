@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<tool name="PfamDB">
+	<protein id="AMO39921.1" length="2532">
+		<feature type="MG1" instance="6" clan="CL0098" evalue="4.3e-16">
+			<start inst_eval="0.00011" start="1" end="76"/>
+			<start inst_eval="0.0034" start="182" end="243"/>
+			<start inst_eval="0.0036" start="702" end="766"/>
+			<start inst_eval="0.00038" start="960" end="1014"/>
+			<start inst_eval="0.0069" start="1480" end="1534"/>
+			<start inst_eval="0.0057" start="1912" end="1988"/>
+		</feature>
+		<feature type="TTR-52" instance="1" clan="CL0287" evalue="0.00032">
+			<start inst_eval="0.00011" start="2" end="68"/>
+		</feature>
+		<feature type="Big_3_2" instance="8" clan="CL0159" evalue="1.8e-26">
+			<start inst_eval="0.00021" start="660" end="693"/>
+			<start inst_eval="2.1e-05" start="746" end="779"/>
+			<start inst_eval="1.8e-05" start="832" end="865"/>
+			<start inst_eval="0.00013" start="918" end="951"/>
+			<start inst_eval="0.00012" start="1004" end="1036"/>
+			<start inst_eval="7.4e-05" start="1090" end="1123"/>
+			<start inst_eval="0.00011" start="1438" end="1471"/>
+			<start inst_eval="6.9e-05" start="1524" end="1557"/>
+		</feature>
+		<feature type="Big_3_4" instance="20" clan="CL0159" evalue="3.2e-58">
+			<start inst_eval="0.008" start="174" end="244"/>
+			<start inst_eval="1.4e-05" start="261" end="337"/>
+			<start inst_eval="1.2e-05" start="352" end="419"/>
+			<start inst_eval="4.6e-05" start="436" end="513"/>
+			<start inst_eval="3.6e-08" start="526" end="601"/>
+			<start inst_eval="6.9e-05" start="614" end="687"/>
+			<start inst_eval="0.0033" start="700" end="773"/>
+			<start inst_eval="2.8e-05" start="782" end="859"/>
+			<start inst_eval="0.0007" start="867" end="945"/>
+			<start inst_eval="0.00032" start="954" end="1031"/>
+			<start inst_eval="0.00026" start="1044" end="1117"/>
+			<start inst_eval="1.4e-06" start="1130" end="1205"/>
+			<start inst_eval="1.7e-06" start="1218" end="1293"/>
+			<start inst_eval="0.0083" start="1392" end="1465"/>
+			<start inst_eval="0.0015" start="1478" end="1551"/>
+			<start inst_eval="6.6e-05" start="1650" end="1722"/>
+			<start inst_eval="0.00016" start="1735" end="1806"/>
+			<start inst_eval="0.00026" start="1824" end="1897"/>
+			<start inst_eval="2.1e-07" start="1994" end="2067"/>
+			<start inst_eval="6.1e-06" start="2079" end="2155"/>
+		</feature>
+	</protein>
+	<protein id="OFW45952.1" length="558">
+		<feature type="CarboxypepD_reg" instance="2" clan="CL0287" evalue="0.00097">
+			<start inst_eval="0.00021" start="178" end="257"/>
+			<start inst_eval="3.8e-05" start="266" end="315"/>
+		</feature>
+		<feature type="MG1" instance="2" clan="CL0098" evalue="0.00065">
+			<start inst_eval="2e-05" start="182" end="252"/>
+			<start inst_eval="0.0024" start="267" end="328"/>
+		</feature>
+		<feature type="Big_3_4" instance="3" clan="CL0159" evalue="4e-31">
+			<start inst_eval="1.2e-13" start="183" end="256"/>
+			<start inst_eval="3.1e-09" start="268" end="343"/>
+			<start inst_eval="7e-19" start="372" end="445"/>
+		</feature>
+	</protein>
+	<protein id="WP_000196843.1" length="728">
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.2e-08">
+			<start inst_eval="0.00089" start="166" end="221"/>
+			<start inst_eval="1.2e-05" start="344" end="408"/>
+			<start inst_eval="0.008" start="425" end="488"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="1.5e-07">
+			<start inst_eval="0.00013" start="352" end="413"/>
+			<start inst_eval="0.0033" start="439" end="502"/>
+		</feature>
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="4.5e-06">
+			<start inst_eval="0.00034" start="355" end="410"/>
+			<start inst_eval="0.0024" start="438" end="485"/>
+		</feature>
+		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.1e-05">
+			<start inst_eval="0.00074" start="227" end="260"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="1.4e-46">
+			<start inst_eval="8.6e-13" start="181" end="254"/>
+			<start inst_eval="2.3e-09" start="266" end="339"/>
+			<start inst_eval="2.3e-11" start="351" end="424"/>
+			<start inst_eval="2.2e-12" start="436" end="509"/>
+			<start inst_eval="1.4e-15" start="539" end="611"/>
+		</feature>
+		<feature type="CBM39" instance="3" clan="CL0159" evalue="2.2e-08">
+			<start inst_eval="5.6e-05" start="166" end="261"/>
+			<start inst_eval="0.0046" start="323" end="398"/>
+			<start inst_eval="0.00015" start="409" end="487"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="5.4e-16">
+			<start inst_eval="4.5e-05" start="180" end="257"/>
+			<start inst_eval="8.7e-07" start="265" end="332"/>
+			<start inst_eval="5e-07" start="351" end="412"/>
+			<start inst_eval="9.1e-06" start="436" end="503"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="2e-10">
+			<start inst_eval="3.1e-05" start="180" end="256"/>
+			<start inst_eval="0.00026" start="265" end="337"/>
+			<start inst_eval="4.9e-05" start="348" end="420"/>
+			<start inst_eval="5.6e-05" start="430" end="507"/>
+		</feature>
+		<feature type="FlgD_ig" instance="5" clan="CL0159" evalue="3.9e-05">
+			<start inst_eval="0.00076" start="171" end="230"/>
+			<start inst_eval="0.0057" start="258" end="304"/>
+			<start inst_eval="0.0016" start="347" end="391"/>
+			<start inst_eval="0.0017" start="374" end="417"/>
+			<start inst_eval="0.0064" start="427" end="484"/>
+		</feature>
+	</protein>
+	<protein id="WP_000196831.1" length="728">
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="2.7e-06">
+			<start inst_eval="0.00034" start="355" end="410"/>
+			<start inst_eval="0.0024" start="438" end="485"/>
+		</feature>
+		<feature type="FlgD_ig" instance="5" clan="CL0159" evalue="2.8e-05">
+			<start inst_eval="0.00076" start="171" end="230"/>
+			<start inst_eval="0.0055" start="258" end="306"/>
+			<start inst_eval="0.0016" start="347" end="391"/>
+			<start inst_eval="0.0017" start="374" end="417"/>
+			<start inst_eval="0.0064" start="427" end="484"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="9.4e-11">
+			<start inst_eval="3.1e-05" start="180" end="256"/>
+			<start inst_eval="0.00025" start="265" end="337"/>
+			<start inst_eval="4.9e-05" start="348" end="420"/>
+			<start inst_eval="5.6e-05" start="430" end="507"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.8e-08">
+			<start inst_eval="0.00089" start="166" end="221"/>
+			<start inst_eval="1.2e-05" start="344" end="408"/>
+			<start inst_eval="0.008" start="425" end="488"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="5.1e-16">
+			<start inst_eval="4.5e-05" start="180" end="257"/>
+			<start inst_eval="9.8e-07" start="265" end="332"/>
+			<start inst_eval="5e-07" start="351" end="412"/>
+			<start inst_eval="9.1e-06" start="436" end="503"/>
+		</feature>
+		<feature type="CBM39" instance="3" clan="CL0159" evalue="1.8e-08">
+			<start inst_eval="5.6e-05" start="166" end="261"/>
+			<start inst_eval="0.0046" start="323" end="398"/>
+			<start inst_eval="0.00015" start="409" end="487"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="1.5e-07">
+			<start inst_eval="0.00013" start="352" end="413"/>
+			<start inst_eval="0.0033" start="439" end="502"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="2.8e-47">
+			<start inst_eval="8.6e-13" start="181" end="254"/>
+			<start inst_eval="1.4e-09" start="266" end="339"/>
+			<start inst_eval="2.3e-11" start="351" end="424"/>
+			<start inst_eval="2.2e-12" start="436" end="509"/>
+			<start inst_eval="1.4e-15" start="539" end="611"/>
+		</feature>
+		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.2e-05">
+			<start inst_eval="0.00074" start="227" end="260"/>
+		</feature>
+	</protein>
+	<protein id="WP_000196831.1" length="728">
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="9.4e-11">
+			<start inst_eval="3.1e-05" start="180" end="256"/>
+			<start inst_eval="0.00025" start="265" end="337"/>
+			<start inst_eval="4.9e-05" start="348" end="420"/>
+			<start inst_eval="5.6e-05" start="430" end="507"/>
+		</feature>
+		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.2e-05">
+			<start inst_eval="0.00074" start="227" end="260"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.8e-08">
+			<start inst_eval="0.00089" start="166" end="221"/>
+			<start inst_eval="1.2e-05" start="344" end="408"/>
+			<start inst_eval="0.008" start="425" end="488"/>
+		</feature>
+		<feature type="CBM39" instance="3" clan="CL0159" evalue="1.8e-08">
+			<start inst_eval="5.6e-05" start="166" end="261"/>
+			<start inst_eval="0.0046" start="323" end="398"/>
+			<start inst_eval="0.00015" start="409" end="487"/>
+		</feature>
+		<feature type="FlgD_ig" instance="5" clan="CL0159" evalue="2.8e-05">
+			<start inst_eval="0.00076" start="171" end="230"/>
+			<start inst_eval="0.0055" start="258" end="306"/>
+			<start inst_eval="0.0016" start="347" end="391"/>
+			<start inst_eval="0.0017" start="374" end="417"/>
+			<start inst_eval="0.0064" start="427" end="484"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="1.5e-07">
+			<start inst_eval="0.00013" start="352" end="413"/>
+			<start inst_eval="0.0033" start="439" end="502"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="2.8e-47">
+			<start inst_eval="8.6e-13" start="181" end="254"/>
+			<start inst_eval="1.4e-09" start="266" end="339"/>
+			<start inst_eval="2.3e-11" start="351" end="424"/>
+			<start inst_eval="2.2e-12" start="436" end="509"/>
+			<start inst_eval="1.4e-15" start="539" end="611"/>
+		</feature>
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="2.7e-06">
+			<start inst_eval="0.00034" start="355" end="410"/>
+			<start inst_eval="0.0024" start="438" end="485"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="5.1e-16">
+			<start inst_eval="4.5e-05" start="180" end="257"/>
+			<start inst_eval="9.8e-07" start="265" end="332"/>
+			<start inst_eval="5e-07" start="351" end="412"/>
+			<start inst_eval="9.1e-06" start="436" end="503"/>
+		</feature>
+	</protein>
+	<protein id="WP_011182637.1" length="1725">
+		<feature type="Big_3_5" instance="7" clan="CL0159" evalue="4.5e-05">
+			<start inst_eval="1.4e-08" start="177" end="261"/>
+			<start inst_eval="3.3e-05" start="279" end="369"/>
+			<start inst_eval="9.8e-06" start="495" end="581"/>
+			<start inst_eval="0.0032" start="601" end="687"/>
+			<start inst_eval="9.3e-06" start="707" end="789"/>
+			<start inst_eval="3.6e-05" start="802" end="892"/>
+			<start inst_eval="3.1e-05" start="908" end="997"/>
+		</feature>
+		<feature type="HYR" instance="3" clan="CL0159" evalue="6.2e-07">
+			<start inst_eval="0.00086" start="218" end="256"/>
+			<start inst_eval="0.0036" start="323" end="359"/>
+			<start inst_eval="0.0025" start="743" end="784"/>
+		</feature>
+		<feature type="DUF4625" instance="3" clan="CL0159" evalue="2.6e-05">
+			<start inst_eval="0.0055" start="191" end="255"/>
+			<start inst_eval="0.0038" start="434" end="467"/>
+			<start inst_eval="0.0025" start="914" end="990"/>
+		</feature>
+		<feature type="Big_3_4" instance="11" clan="CL0159" evalue="3.9e-124">
+			<start inst_eval="1.1e-21" start="186" end="261"/>
+			<start inst_eval="9.5e-21" start="292" end="366"/>
+			<start inst_eval="3.6e-14" start="397" end="472"/>
+			<start inst_eval="8.8e-15" start="506" end="581"/>
+			<start inst_eval="5.3e-14" start="611" end="685"/>
+			<start inst_eval="8e-21" start="715" end="789"/>
+			<start inst_eval="4.3e-18" start="818" end="890"/>
+			<start inst_eval="9.6e-22" start="920" end="996"/>
+			<start inst_eval="1e-16" start="1008" end="1084"/>
+			<start inst_eval="0.0048" start="1258" end="1331"/>
+			<start inst_eval="0.00014" start="1525" end="1603"/>
+		</feature>
+		<feature type="Big_3_2" instance="3" clan="CL0159" evalue="1.1e-06">
+			<start inst_eval="0.0077" start="324" end="371"/>
+			<start inst_eval="9.6e-07" start="439" end="479"/>
+			<start inst_eval="0.00013" start="1031" end="1087"/>
+		</feature>
+	</protein>
+	<protein id="WP_000196831.1" length="728">
+		<feature type="CBM39" instance="3" clan="CL0159" evalue="1.8e-08">
+			<start inst_eval="5.6e-05" start="166" end="261"/>
+			<start inst_eval="0.0046" start="323" end="398"/>
+			<start inst_eval="0.00015" start="409" end="487"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="5.1e-16">
+			<start inst_eval="4.5e-05" start="180" end="257"/>
+			<start inst_eval="9.8e-07" start="265" end="332"/>
+			<start inst_eval="5e-07" start="351" end="412"/>
+			<start inst_eval="9.1e-06" start="436" end="503"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.8e-08">
+			<start inst_eval="0.00089" start="166" end="221"/>
+			<start inst_eval="1.2e-05" start="344" end="408"/>
+			<start inst_eval="0.008" start="425" end="488"/>
+		</feature>
+		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.2e-05">
+			<start inst_eval="0.00074" start="227" end="260"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="1.5e-07">
+			<start inst_eval="0.00013" start="352" end="413"/>
+			<start inst_eval="0.0033" start="439" end="502"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="2.8e-47">
+			<start inst_eval="8.6e-13" start="181" end="254"/>
+			<start inst_eval="1.4e-09" start="266" end="339"/>
+			<start inst_eval="2.3e-11" start="351" end="424"/>
+			<start inst_eval="2.2e-12" start="436" end="509"/>
+			<start inst_eval="1.4e-15" start="539" end="611"/>
+		</feature>
+		<feature type="FlgD_ig" instance="5" clan="CL0159" evalue="2.8e-05">
+			<start inst_eval="0.00076" start="171" end="230"/>
+			<start inst_eval="0.0055" start="258" end="306"/>
+			<start inst_eval="0.0016" start="347" end="391"/>
+			<start inst_eval="0.0017" start="374" end="417"/>
+			<start inst_eval="0.0064" start="427" end="484"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="9.4e-11">
+			<start inst_eval="3.1e-05" start="180" end="256"/>
+			<start inst_eval="0.00025" start="265" end="337"/>
+			<start inst_eval="4.9e-05" start="348" end="420"/>
+			<start inst_eval="5.6e-05" start="430" end="507"/>
+		</feature>
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="2.7e-06">
+			<start inst_eval="0.00034" start="355" end="410"/>
+			<start inst_eval="0.0024" start="438" end="485"/>
+		</feature>
+	</protein>
+	<protein id="WP_008940930.1" length="559">
+		<feature type="Big_3_2" instance="2" clan="CL0159" evalue="0.00011">
+			<start inst_eval="0.0014" start="223" end="262"/>
+			<start inst_eval="0.0033" start="467" end="515"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="3.2e-07">
+			<start inst_eval="0.0048" start="182" end="257"/>
+			<start inst_eval="0.00017" start="264" end="340"/>
+			<start inst_eval="8.1e-05" start="351" end="434"/>
+			<start inst_eval="0.00018" start="430" end="503"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="8.2e-07">
+			<start inst_eval="0.0031" start="168" end="240"/>
+			<start inst_eval="0.0028" start="346" end="410"/>
+			<start inst_eval="0.00041" start="424" end="495"/>
+		</feature>
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="0.0003">
+			<start inst_eval="0.0035" start="355" end="421"/>
+			<start inst_eval="0.00023" start="440" end="501"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="7.2e-07">
+			<start inst_eval="0.0012" start="267" end="320"/>
+			<start inst_eval="0.0011" start="355" end="422"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="3.1e-13">
+			<start inst_eval="1.3e-06" start="183" end="253"/>
+			<start inst_eval="7.2e-07" start="267" end="339"/>
+			<start inst_eval="5e-05" start="342" end="423"/>
+			<start inst_eval="0.00017" start="427" end="507"/>
+		</feature>
+		<feature type="Big_3_4" instance="4" clan="CL0159" evalue="2.9e-40">
+			<start inst_eval="5.2e-15" start="183" end="256"/>
+			<start inst_eval="3.5e-12" start="268" end="341"/>
+			<start inst_eval="1.2e-12" start="353" end="426"/>
+			<start inst_eval="1.1e-11" start="438" end="511"/>
+		</feature>
+	</protein>
+	<protein id="WP_003650454.1" length="726">
+		<feature type="TTR-52" instance="1" clan="CL0287" evalue="2.4e-06">
+			<start inst_eval="0.00049" start="349" end="415"/>
+		</feature>
+		<feature type="Cna_B" instance="3" clan="CL0287" evalue="4e-07">
+			<start inst_eval="0.00053" start="188" end="222"/>
+			<start inst_eval="7.9e-05" start="358" end="390"/>
+			<start inst_eval="0.00075" start="443" end="472"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="7.5e-45">
+			<start inst_eval="2e-09" start="180" end="253"/>
+			<start inst_eval="2.5e-07" start="265" end="338"/>
+			<start inst_eval="6.2e-13" start="350" end="423"/>
+			<start inst_eval="7.8e-13" start="435" end="508"/>
+			<start inst_eval="9.9e-15" start="538" end="610"/>
+		</feature>
+		<feature type="FlgD_ig" instance="4" clan="CL0159" evalue="1.7e-06">
+			<start inst_eval="0.00033" start="168" end="233"/>
+			<start inst_eval="0.0045" start="257" end="305"/>
+			<start inst_eval="0.00032" start="343" end="390"/>
+			<start inst_eval="0.0089" start="374" end="416"/>
+		</feature>
+		<feature type="CBM39" instance="2" clan="CL0159" evalue="0.00017">
+			<start inst_eval="0.0014" start="177" end="256"/>
+			<start inst_eval="0.0035" start="424" end="481"/>
+		</feature>
+		<feature type="CarbopepD_reg_2" instance="3" clan="CL0287" evalue="1.1e-07">
+			<start inst_eval="2.2e-05" start="180" end="239"/>
+			<start inst_eval="0.0007" start="348" end="417"/>
+			<start inst_eval="0.0026" start="435" end="513"/>
+		</feature>
+		<feature type="DUF4115" instance="1" clan="DUF4115" evalue="0.00093">
+			<start inst_eval="0.00096" start="352" end="409"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="2.8e-11">
+			<start inst_eval="8.8e-06" start="179" end="253"/>
+			<start inst_eval="0.0043" start="265" end="310"/>
+			<start inst_eval="4.1e-06" start="348" end="418"/>
+			<start inst_eval="0.00028" start="432" end="504"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="1.3e-13">
+			<start inst_eval="2.1e-05" start="180" end="249"/>
+			<start inst_eval="3.6e-05" start="264" end="331"/>
+			<start inst_eval="8.7e-07" start="343" end="412"/>
+			<start inst_eval="0.00034" start="435" end="499"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="1.8e-07">
+			<start inst_eval="0.0025" start="167" end="230"/>
+			<start inst_eval="2.6e-05" start="342" end="408"/>
+			<start inst_eval="0.007" start="422" end="487"/>
+		</feature>
+	</protein>
+	<protein id="WP_005402280.1" length="120">
+		<feature type="Big_3_4" instance="1" clan="CL0159" evalue="8.5e-11">
+			<start inst_eval="8.9e-15" start="34" end="106"/>
+		</feature>
+	</protein>
+	<protein id="WP_000196847.1" length="728">
+		<feature type="Cna_B" instance="4" clan="CL0287" evalue="2.7e-09">
+			<start inst_eval="0.00011" start="189" end="221"/>
+			<start inst_eval="0.0024" start="274" end="308"/>
+			<start inst_eval="5e-05" start="359" end="391"/>
+			<start inst_eval="0.00017" start="444" end="473"/>
+		</feature>
+		<feature type="CBM39" instance="3" clan="CL0159" evalue="2.3e-08">
+			<start inst_eval="6.2e-05" start="166" end="261"/>
+			<start inst_eval="0.0052" start="323" end="398"/>
+			<start inst_eval="0.00016" start="409" end="487"/>
+		</feature>
+		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="1.6e-46">
+			<start inst_eval="9.5e-13" start="181" end="254"/>
+			<start inst_eval="2.6e-09" start="266" end="339"/>
+			<start inst_eval="2.5e-11" start="351" end="424"/>
+			<start inst_eval="2.5e-12" start="436" end="509"/>
+			<start inst_eval="1.6e-15" start="539" end="611"/>
+		</feature>
+		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.5e-08">
+			<start inst_eval="0.00099" start="166" end="221"/>
+			<start inst_eval="1.4e-05" start="344" end="408"/>
+			<start inst_eval="0.0088" start="425" end="488"/>
+		</feature>
+		<feature type="FlgD_ig" instance="5" clan="CL0159" evalue="3.9e-05">
+			<start inst_eval="0.00084" start="171" end="230"/>
+			<start inst_eval="0.0063" start="258" end="304"/>
+			<start inst_eval="0.0018" start="347" end="391"/>
+			<start inst_eval="0.0019" start="374" end="417"/>
+			<start inst_eval="0.0071" start="427" end="484"/>
+		</feature>
+		<feature type="CarboxypepD_reg" instance="4" clan="CL0287" evalue="1.3e-10">
+			<start inst_eval="3.4e-05" start="180" end="256"/>
+			<start inst_eval="0.00029" start="265" end="337"/>
+			<start inst_eval="5.4e-05" start="348" end="420"/>
+			<start inst_eval="6.3e-05" start="430" end="507"/>
+		</feature>
+		<feature type="TTR-52" instance="2" clan="CL0287" evalue="1.5e-07">
+			<start inst_eval="0.00014" start="352" end="413"/>
+			<start inst_eval="0.0037" start="439" end="502"/>
+		</feature>
+		<feature type="DUF4115" instance="2" clan="DUF4115" evalue="4.4e-06">
+			<start inst_eval="0.00038" start="355" end="410"/>
+			<start inst_eval="0.0026" start="438" end="485"/>
+		</feature>
+		<feature type="MG1" instance="4" clan="CL0098" evalue="5e-16">
+			<start inst_eval="5e-05" start="180" end="257"/>
+			<start inst_eval="9.7e-07" start="265" end="332"/>
+			<start inst_eval="5.5e-07" start="351" end="412"/>
+			<start inst_eval="1e-05" start="436" end="503"/>
+		</feature>
+		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.1e-05">
+			<start inst_eval="0.00082" start="227" end="260"/>
+		</feature>
+	</protein>
