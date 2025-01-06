@@ -7,9 +7,6 @@ Streptomyces coelicolor	strecoe_4_1440
 Streptomyces coelicolor	strecoe_4_14410
 Streptomyces coelicolor	strecoe_4_14412
 Streptomyces coelicolor	strecoe_4_14413
-Streptomyces coelicolor	strecoe_4_14415
-Streptomyces coelicolor	strecoe_4_14416
-Streptomyces coelicolor	strecoe_4_14418
 Streptomyces coelicolor	strecoe_4_1441
 Streptomyces coelicolor	strecoe_4_14420
 Streptomyces coelicolor	strecoe_4_14422
@@ -310,14 +307,6 @@ Kitasatospora atroaurantiaca	Kitatro_3_3036
 Kitasatospora atroaurantiaca	Kitatro_3_3037
 Kitasatospora atroaurantiaca	Kitatro_3_3039
 Kitasatospora atroaurantiaca	Kitatro_3_303
-Kitasatospora atroaurantiaca	Kitatro_3_3041
-Kitasatospora atroaurantiaca	Kitatro_3_3042
-Kitasatospora atroaurantiaca	Kitatro_3_3044
-Kitasatospora atroaurantiaca	Kitatro_3_3046
-Kitasatospora atroaurantiaca	Kitatro_3_3047
-Kitasatospora atroaurantiaca	Kitatro_3_304
-Kitasatospora atroaurantiaca	Kitatro_3_3050
-Kitasatospora atroaurantiaca	Kitatro_3_3051
 Kitasatospora atroaurantiaca	Kitatro_3_3053
 Kitasatospora atroaurantiaca	Kitatro_3_3056
 Kitasatospora atroaurantiaca	Kitatro_3_3057
