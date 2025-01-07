@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tool name="PfamDB">
 	<protein id="AMO39921.1" length="2532">
-		<feature type="MG1" instance="6" clan="CL0098" evalue="4.3e-16">
+		<feature type="MG2" instance="6" clan="CL0098" evalue="4.3e-16">
 			<start inst_eval="0.00011" start="1" end="76"/>
 			<start inst_eval="0.0034" start="182" end="243"/>
 			<start inst_eval="0.0036" start="702" end="766"/>
@@ -22,7 +22,7 @@
 			<start inst_eval="0.00011" start="1438" end="1471"/>
 			<start inst_eval="6.9e-05" start="1524" end="1557"/>
 		</feature>
-		<feature type="Big_3_4" instance="20" clan="CL0159" evalue="3.2e-58">
+		<feature type="Big_3_2" instance="20" clan="CL0159" evalue="3.2e-58">
 			<start inst_eval="0.008" start="174" end="244"/>
 			<start inst_eval="1.4e-05" start="261" end="337"/>
 			<start inst_eval="1.2e-05" start="352" end="419"/>
@@ -54,7 +54,7 @@
 			<start inst_eval="2e-05" start="182" end="252"/>
 			<start inst_eval="0.0024" start="267" end="328"/>
 		</feature>
-		<feature type="Big_3_4" instance="3" clan="CL0159" evalue="4e-31">
+		<feature type="Big_3_2" instance="3" clan="CL0159" evalue="4e-31">
 			<start inst_eval="1.2e-13" start="183" end="256"/>
 			<start inst_eval="3.1e-09" start="268" end="343"/>
 			<start inst_eval="7e-19" start="372" end="445"/>
@@ -77,7 +77,7 @@
 		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.1e-05">
 			<start inst_eval="0.00074" start="227" end="260"/>
 		</feature>
-		<feature type="Big_3_4" instance="5" clan="CL0159" evalue="1.4e-46">
+		<feature type="Big_3_8" instance="5" clan="CL0159" evalue="1.4e-46">
 			<start inst_eval="8.6e-13" start="181" end="254"/>
 			<start inst_eval="2.3e-09" start="266" end="339"/>
 			<start inst_eval="2.3e-11" start="351" end="424"/>
@@ -165,7 +165,7 @@
 			<start inst_eval="4.9e-05" start="348" end="420"/>
 			<start inst_eval="5.6e-05" start="430" end="507"/>
 		</feature>
-		<feature type="Big_3_2" instance="1" clan="CL0159" evalue="7.2e-05">
+		<feature type="Big_3_1" instance="1" clan="CL0159" evalue="7.2e-05">
 			<start inst_eval="0.00074" start="227" end="260"/>
 		</feature>
 		<feature type="Gmad2" instance="3" clan="Gmad2" evalue="4.8e-08">
@@ -200,7 +200,7 @@
 			<start inst_eval="0.00034" start="355" end="410"/>
 			<start inst_eval="0.0024" start="438" end="485"/>
 		</feature>
-		<feature type="MG1" instance="4" clan="CL0098" evalue="5.1e-16">
+		<feature type="MG2" instance="4" clan="CL0098" evalue="5.1e-16">
 			<start inst_eval="4.5e-05" start="180" end="257"/>
 			<start inst_eval="9.8e-07" start="265" end="332"/>
 			<start inst_eval="5e-07" start="351" end="412"/>
@@ -240,7 +240,7 @@
 			<start inst_eval="0.0048" start="1258" end="1331"/>
 			<start inst_eval="0.00014" start="1525" end="1603"/>
 		</feature>
-		<feature type="Big_3_2" instance="3" clan="CL0159" evalue="1.1e-06">
+		<feature type="Big_3_8" instance="3" clan="CL0159" evalue="1.1e-06">
 			<start inst_eval="0.0077" start="324" end="371"/>
 			<start inst_eval="9.6e-07" start="439" end="479"/>
 			<start inst_eval="0.00013" start="1031" end="1087"/>
